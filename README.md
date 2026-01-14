@@ -11,3 +11,15 @@ pip install notebook
 ```
 python -m notebook
 ```
+
+## Pour installer scikit learn
+
+```
+py -m pip install scikit-learn
+```
+
+## Pour installer setuptools
+
+```
+python -m pip install setuptools
+```
