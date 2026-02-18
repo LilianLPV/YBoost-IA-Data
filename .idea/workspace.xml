@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="df36b831-998e-434d-b3dc-e843734b4285" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exploration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learnning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learnning.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meteo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/meteo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meteo_juillet_decembre_2019.csv" beforeDir="false" afterPath="$PROJECT_DIR$/meteo_juillet_decembre_2019.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -73,6 +74,8 @@
       <workItem from="1769778170747" duration="63000" />
       <workItem from="1770190413931" duration="4501000" />
       <workItem from="1771247181794" duration="459000" />
+      <workItem from="1771400232307" duration="6672000" />
+      <workItem from="1771408364132" duration="3646000" />
     </task>
     <servers />
   </component>
